@@ -1,0 +1,1 @@
+This is a simple react app that connects to the backend to past the message it gets from the backend
